@@ -18,7 +18,8 @@ CIA TRIAD:Confidentiality, Integrity, and Availability
 ```
 請為李白將進酒畫四幅水墨畫
 ```
-### [提示工程指南](https://www.promptingguide.ai/zh)
+### 提示工程指南
+- [提示工程指南](https://www.promptingguide.ai/zh)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - 提示工程技術
   - Zero-shot Prompting(零樣本提示學)
@@ -38,3 +39,18 @@ CIA TRIAD:Confidentiality, Integrity, and Availability
   - Reflexion()
   - Multimodal CoT(多模態思維鏈提示方法)
   - Graph Prompting(圖形提示詞)
+### 作業
+```
+使用CHATGPT生成一張照片  或上傳自己的照片
+
+== > 產生修飾過的 照片
+
+== > 產生3D(立體圖)的照片
+
+== > 產生會動的公仔
+
+== > 產生會發聲音的公仔
+
+附上文字稿
+== > 產生會虛擬主播 或 專業老師
+```
